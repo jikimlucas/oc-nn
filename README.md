@@ -298,3 +298,4 @@ MIT
 This implementation is based on the repository https://github.com/lukasruff/Deep-SVDD, which is licensed under the MIT license. The Deep SVDD repository is an implementation of the paper "Deep One-Class Classification by Ruff, Lukas and Vandermeulen, Robert A. and G{\"o}rnitz, Nico and Deecke, Lucas and Siddiqui, Shoaib A. and Binder, Alexander and M{\"u}ller, Emmanuel and Kloft, Marius
 
 
+# Nokia
